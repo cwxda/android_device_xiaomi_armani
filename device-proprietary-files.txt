@@ -1,5 +1,28 @@
+# Bin
+bin/ATFWD-daemon
+bin/diag_klog
+bin/diag_mdlog
+bin/e2fsck
+bin/qmuxd
+bin/sensors.qcom
+bin/usbhub
+bin/usbhub_init
+
 # Libs
+lib/libgps.utils.so
+lib/libloc_core.so
+lib/libloc_eng.so
+lib/libqminvapi.so
+vendor/lib/libAKM8963.so
+vendor/lib/libCommandSvc.so
+vendor/lib/libcsd-client.so
+vendor/lib/libllvm-a3xx.so
 vendor/lib/libNimsWrap.so
+vendor/lib/liboemcrypto.so
+vendor/lib/libqdi.so
+vendor/lib/libqdp.so
+vendor/lib/libsensor_reg.so
+vendor/lib/libsensor_user_cal.so
 
 # WiFi
 lib/modules/pronto/pronto_wlan.ko
